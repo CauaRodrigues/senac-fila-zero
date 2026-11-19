@@ -1,0 +1,40 @@
+
+{
+  "caixas": [
+    {
+      "id": 1,
+      "nome": "Caixa 01",
+      "pessoas": 2,
+      "tempo_atendimento": 120,
+      "aberto": true
+    },
+    {
+      "id": 2,
+      "nome": "Caixa 02",
+      "pessoas": 5,
+      "tempo_atendimento": 120,
+      "aberto": true
+    },
+    {
+      "id": 3,
+      "nome": "Caixa 03",
+      "pessoas": 0,
+      "tempo_atendimento": 120,
+      "aberto": true
+    },
+    {
+      "id": 4,
+      "nome": "Caixa 04",
+      "pessoas": 8,
+      "tempo_atendimento": 120,
+      "aberto": true
+    },
+    {
+      "id": 5,
+      "nome": "Caixa 05",
+      "pessoas": 0,
+      "tempo_atendimento": 120,
+      "aberto": false
+    }
+  ]
+}
